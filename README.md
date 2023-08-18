@@ -313,12 +313,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ### LED OFF :
 
-![LED OFF](https://github.com/Skanthasishanth/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118298456/996aab33-337a-4aba-8778-721532ff4919)
+
+![LED OFF](https://github.com/Skanthasishanth/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118298456/e2a0d5c3-98da-4de0-8132-7b4e04c637eb)
 
 
 ### LED ON :
 
-![LED ON](https://github.com/Skanthasishanth/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118298456/777af0c6-51e1-4d87-b537-d22ffb75e613)
+
+![LED ON](https://github.com/Skanthasishanth/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118298456/1f066f7e-608e-472d-803b-f1a0fd66b092)
 
  
 ## Result :
